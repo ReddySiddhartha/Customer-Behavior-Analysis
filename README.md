@@ -47,6 +47,5 @@ This project analyzes e-commerce customer transaction data to understand purchas
 
 ## Project Files
 - `Customer_Behavior_Analysis (1).ipynb` — analysis notebook.
-- **PDF Report:** [View the report on Google Drive](https://drive.google.com/file/d/1T51JJ_ys6_4M33vaebcevUwmTDbiKPFy/view?usp=drive_link)
-## Limitations
+- **PDF Report:** [View the Customer Behavior Analysis Report](./Customer_Behavior_Analysis_Code_and_Report_BW.pdf)## Limitations
 RFM segments are rule-based and are not a validated churn prediction model. The meaning of the churn label needs confirmation, and the final month contains only partial-month data.
